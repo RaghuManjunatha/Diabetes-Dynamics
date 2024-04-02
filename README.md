@@ -12,6 +12,9 @@
 ## Introduction
 Diabetes affects millions globally, presenting significant health risks. Our project explores diabetes risk factors using sophisticated analytics on large datasets, aiming to enhance understanding and inform interventions. By analyzing various health, lifestyle, and socio-demographic factors, we aim to uncover complex patterns and connections that contribute to diabetes susceptibility.  We have considered a comprehensive dataset aimed at understanding diabetes dynamics through data analytics. The dataset encompasses a wide array of health-related factors, lifestyle choices, socio-demographic information, and self-reported health statuses. With over 250k+ records, it provides a robust foundation for our analysis.
 
+## License
+This dataset is provided under the Creative Commons CC0 1.0 Universal license. This means that it is free to use, modify, and distribute the dataset for any purpose, even commercially, without requiring permission from the creator. For more information, please refer to the [full license text](https://creativecommons.org/publicdomain/zero/1.0/).
+
 ## Key Features:
 - **Target Variable:** Indicates diabetes status (0 = No Diabetes, 1 = Prediabetes, 2 = Diabetes).
 - **Health Indicators:** Includes high blood pressure, high cholesterol, and body mass index (BMI).
