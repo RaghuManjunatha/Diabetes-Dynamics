@@ -39,7 +39,7 @@ Our system integrates advanced analytics, predictive modeling, and visualization
 
 ## System Architecture
 Our system architecture encompasses robust data ingestion, processing, NoSQL database utilization, advanced analytics engine, and result visualization components. By adopting a distributed computing approach and leveraging scalable technologies, we ensure seamless handling of large volumes of data and facilitate interactive exploration of results.
-![Image Description](Dataset/SYSTEM ARCHI.jpg)
+![System Architecture](https://github.com/RaghuManjunatha/Diabetes-Dynamics/blob/718f8835232372a47c2bc9bb5c481ca5773fdba7/Dataset/SYSTEM%20ARCHI.jpg)
 
 ## Proposed Development Platforms
 We utilize Python, SQL, PySpark, Spark MLlib, and Databricks DBFS for developing our project, ensuring efficient handling of large datasets. By leveraging the capabilities of these platforms, we aim to streamline development workflows and accelerate the delivery of actionable insights for diabetes management and prevention.
