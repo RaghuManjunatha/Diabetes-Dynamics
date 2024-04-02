@@ -1,4 +1,4 @@
-Proposed Dataset Selection
+# Proposed Dataset Selection
 
 The dataset for this project consists of 253680 records, indicating a substantial sample size for robust analysis. It encompasses a wide array of health-related factors, lifestyle choices, socio-demographic information, and self-reported health statuses, providing a comprehensive view of contributors to diabetes risk.
 
