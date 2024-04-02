@@ -1,6 +1,8 @@
 # Diabetes-Dynamics
 ### A Data Analytics Approach for Uncovering Trends and Guiding Health Interventions
 
+![System Architecture](https://github.com/RaghuManjunatha/Diabetes-Dynamics/blob/13d9c654e37775fea91aa45112e4a16788e13519/Assets/Diabetes%20Logo.jpg)
+
 **Team**
 - Raghu Manjunatha
 - Akhil Arekatika
