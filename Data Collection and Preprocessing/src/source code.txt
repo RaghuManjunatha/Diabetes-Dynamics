@@ -1,0 +1,12 @@
+### Data Cleaning and Preprocessing Source Code
+
+This folder contains Python scripts and notebooks used for data cleaning, exploratory data analysis (EDA), and data quality assessment as part of the Diabetes Dynamics project.
+
+#### File Structure:
+
+- **cleaning_scripts/**: Contains Python scripts for cleaning and preprocessing raw data.
+- **eda_scripts/**: Contains Python scripts for exploratory data analysis.
+- **data_quality_assessment/**: Contains scripts  for assessing the quality of the dataset.
+- **cleaned_dataset/**: cleaned dataset after preprocessing.
+
+
