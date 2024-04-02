@@ -1,5 +1,5 @@
-#### Diabetes-Dynamics
-# A Data Analytics Approach for Uncovering Trends and Guiding Health Interventions
+# Diabetes-Dynamics
+### A Data Analytics Approach for Uncovering Trends and Guiding Health Interventions
 
 **Team**
 - Raghu Manjunatha
@@ -57,11 +57,11 @@ We utilize Python, SQL, PySpark, Spark MLlib, and Databricks DBFS for developing
 **End Date:** 04/12/2024  
 **Total Duration:** 6 weeks
 
-### Identify Risks and a Mitigation Plan
+## Identify Risks and a Mitigation Plan
 Potential risks include data quality issues, algorithmic complexity, and time constraints. To mitigate these risks, the team plans to:
 - Conduct thorough data validation and cleansing during preprocessing.
 - Prioritize essential features and algorithms during development to manage complexity.
 - Monitor project progress closely and adjust timelines or resources if needed to ensure timely completion.
 
-  ## Conclusion and Ongoing Development
+## Conclusion and Ongoing Development
 Since the project is still in development, we will continue to add more findings and visuals as we progress. At the end of the project, we aim to provide a comprehensive analysis of diabetes risk factors and their implications. 
